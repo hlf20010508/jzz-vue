@@ -23,11 +23,11 @@ npm run dev
 
 此处已更改过package.json第10行build，会自动将build的dist更新到jzz-sanic文件夹中
 
-需要jzz-sanic项目https://github.com/hlf20010508/jzz-sanic.git
+需要jzz-sanic项目https://github.com/hlf20010508/jzz
 ```
 npm run build
 ```
 
 <br/>
 
-效果展示见jzz-sanic
+效果展示见[jzz](https://github.com/hlf20010508/jzz)
